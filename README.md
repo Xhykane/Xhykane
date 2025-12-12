@@ -1,6 +1,6 @@
 # Hi! I'm Muhammad Aslam Siddiq
 ![Xhykane](img/banner.png)
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)]((https://www.instagram.com/slamsidd/),(https://www.linkedin.com/in/muhammad-aslam-siddiq-949243333/))
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/slamsidd/)
 #### a Computer Science - Software engineering student at Bina Nusantara University with a strong passion for technology, problem-solving, and building meaningful digital experiences.
 
 #### I'm currently exploring opportunities for internships, especially in roles such as:
