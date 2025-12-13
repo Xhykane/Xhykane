@@ -23,4 +23,4 @@
 
 # Get In Touch
 #### Feel free to contact me if you have any questions or just want to say hi.
-##### [![Linkedin](https://skillicons.dev/icons?i=gmail,outlook)] Raxeronorouzi@gmail.com or muhammad.siddiq001@binus.ac.id
+##### ![Linkedin](https://skillicons.dev/icons?i=gmail,outlook) Raxeronorouzi@gmail.com or muhammad.siddiq001@binus.ac.id
