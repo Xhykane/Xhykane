@@ -23,4 +23,5 @@
 
 # Get In Touch
 #### Feel free to contact me if you have any questions or just want to say hi.
-## ![Linkedin](https://skillicons.dev/icons?i=gmail) Raxeronorouzi@gmail.com or ![Linkedin](https://skillicons.dev/icons?i=outlook)  muhammad.siddiq001@binus.ac.id
+## ![Linkedin](https://skillicons.dev/icons?i=gmail) Raxeronorouzi@gmail.com or muhammad.siddiq001@binus.ac.id
+## No.Telp/WhatsApp : +6281383550480
